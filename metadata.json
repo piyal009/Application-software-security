@@ -1,0 +1,6 @@
+{
+  "name": "AppSec Mastery: Application Software Security Curriculum",
+  "description": "Comprehensive 15-chapter, 75-set curriculum covering SSDLC, threat modeling, cryptography, web/API vulnerabilities, mobile, IoT, and DevSecOps with interactive code audits and labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
